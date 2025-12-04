@@ -257,21 +257,14 @@ http://your-ec2-public-ip:8080
 ---
 
 ## 📸 Screenshots
-
-### Home Page - English
-*[Screenshot showing the main landing page with English welcome message]*
-
-### Home Page - French
-*[Screenshot showing the main landing page with French welcome message]*
-
-### Reservation Page - Multi-Currency Display
-*[Screenshot showing room prices in USD, CAD, and EUR]*
-
-### Live Presentation Schedule - Timezone Display
-*[Screenshot showing event times in ET, MT, and UTC]*
-
-### Docker Container Running
-*[Screenshot of terminal showing `docker ps` with the running container]*
+<img width="1917" height="1142" alt="dockerrunning_HH" src="https://github.com/user-attachments/assets/fc3c65ea-3d8d-454e-b9e9-07239f6569f3" />
+<img<img width="1917" height="1140" alt="imagerunninginsideDockerHUB_2" src="https://github.com/user-attachments/assets/0f148fe9-611c-4f1f-aa23-632c523a3c6b" />
+ width="1905" height="1097" alt="dockerEC2_apprunningscreenshot" src="https://github.com/user-attachments/assets/605f2490-afc9-4d8f-9633-c2fcb6a54dd5" />
+<img width="1916" height="1142" alt="amzonIAMscreenshotapprunning" src="https://github.com/user-attachments/assets/7f9263f6-0858-4a7e-81db-00b411037ece" />
+<img width="1765" height="967" alt="amzon_docker_logs_2" src="https://github.com/user-attachments/assets/28b2d1a2-bfb9-433d-8c3e-633386aa8209" />
+<img width="1917" height="1140" alt="imagerunninginsideDockerHUB" src="https://github.com/user-attachments/assets/8780d40d-bafd-4970-a06d-d8d4af93b3cb" />
+<img width="1862" height="927" alt="graphrepo" src="https://github.com/user-attachments/assets/02d9d75b-75b2-4d33-bef4-aa24544d6fa0" />
+<img width="191<img width="1918" height="1040" alt="amazon_docker_logs" src="https://github.com/user-attachments/assets/33c1136e-0326-4717-a7cb-e71bdcd9086a" />
 
 ---
 
@@ -405,3 +398,4 @@ This project was developed as part of the Western Governors University (WGU) Adv
 ---
 
 *Last Updated: December 2025*
+
